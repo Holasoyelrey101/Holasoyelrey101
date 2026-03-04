@@ -1,4 +1,4 @@
-<h1 align="center">👑 Holasoyelrey101</h1>
+
 
 ## 🚀 About Me
 
@@ -71,5 +71,3 @@
 - 📧 Email: sir.uk101@gmail.com
 
 ---
-
-⭐ Code. Optimize. Scale.
